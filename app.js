@@ -8,7 +8,7 @@
 // ============================================
 const CONFIG = {
     // Replace with your Google Cloud OAuth Client ID
-    GOOGLE_CLIENT_ID: '739584369324-ceulvs27abbhvufa7muvgue39h6jqv0u.apps.googleusercontent.com',
+    GOOGLE_CLIENT_ID: '1019579940917-grrvafpk9mamucmeg9dnf68gngndavc9.apps.googleusercontent.com',
     STORAGE_PREFIX: 'cultiv8_',
     SESSION_KEY: 'cultiv8_session',
     USERS_KEY: 'cultiv8_users',
